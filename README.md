@@ -1,0 +1,1 @@
+Friendbuy Test API TLS1.1 and TLS1.2

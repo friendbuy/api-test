@@ -1,0 +1,10 @@
+{
+  "name": "friendbuy-api-test",
+  "version": "1.0.0",
+  "description": "Test for > TLS1.1 support",
+  "main": "test-api.js",
+  "author": "Friendbuy",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
